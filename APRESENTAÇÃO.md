@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Arthur
+- 👀 I’m interested in Trabalhos Via Programação.
+- 🌱 I’m currently learning  Python.
+- 💞️ I’m looking to collaborate on trabalhos onlines, como python, excel, automocao, anuncios.
+- 📫 How to reach me ...
+- INSTAGR: @arthurhpi
+-  GITHUB: @arthurhpi
